@@ -1,1 +1,1 @@
-# mumi
+# this is a wordle solver
